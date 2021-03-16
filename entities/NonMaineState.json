@@ -1,9 +1,0 @@
-{
-  "id": "ce40185b-9967-4394-9e52-521988339359",
-  "name": "NonMaineState",
-  "isOverridable": true,
-  "isEnum": true,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}
